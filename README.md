@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub
+== I love to write Python scripts in the dark.
